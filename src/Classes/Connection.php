@@ -16,7 +16,7 @@ class Connection{
         $this->host = 'localhost';
         $this->db = 'website';
         $this->user = 'root';
-        $this->password = 'programmer@8203';
+        $this->password = 'P@SSWORD';
         $dsn = "mysql:host:$this->host;dbname=$this->db;charset=UTF8";
 
         try{
