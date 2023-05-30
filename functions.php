@@ -1,6 +1,6 @@
 <?php
 
-const BASE_URL = 'http://localhost:8000/';
+const BASE_URL = 'https://hitaspnull.github.io/';
 
 function dd($data){
     die('<pre>'.print_r($data, true).'</pre>');
